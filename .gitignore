@@ -1,39 +1,20 @@
-Plaintext
-
-
-
 # Quartus specific ignores
-
 */db/
-
 */incremental_db/
-
 */output_files/
-
 */simulation/
-
 *.qws
-
 *.rpt
-
 *.smsg
-
 *.summary
-
 *.done
-
 *.jdi
-
 *.pin
-
 *.sld
-
 *.bak
-
-
+*.htm
+*.qdf
 
 # OS specific
-
 .DS_Store
-
 Thumbs.db
